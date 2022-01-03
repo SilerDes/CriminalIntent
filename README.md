@@ -1,2 +1,2 @@
 # CriminalIntent
-Learning project
+Learning Project (Android) Author: Kazbekov Andrey, student MFUA
