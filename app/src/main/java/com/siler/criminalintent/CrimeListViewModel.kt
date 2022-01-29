@@ -12,7 +12,7 @@ class CrimeListViewModel : ViewModel() {
             with(crime) {
                 title = "Crime $i"
                 isSolved = i % 2 == 0
-                requiresPolice = i % 5 == 0
+                //requiresPolice = i % 5 == 0
             }
             crimes.add(crime)
         }
