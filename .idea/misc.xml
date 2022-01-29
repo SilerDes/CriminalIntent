@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/AndroidLearningProjects/CriminalIntent/CriminalIntent/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidLearningProjects/CriminalIntent/CriminalIntent/app/src/main/res/layout/fragment_crime.xml" value="0.33" />
+        <entry key="..\:/AndroidLearningProjects/CriminalIntent/CriminalIntent/app/src/main/res/layout/fragment_crime_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidLearningProjects/CriminalIntent/CriminalIntent/app/src/main/res/layout/list_item_crime.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidLearningProjects/CriminalIntent/CriminalIntent/app/src/main/res/layout/list_item_crime_requires_polcie.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
